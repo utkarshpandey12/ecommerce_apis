@@ -54,11 +54,11 @@
 
 - Django Admin Page Available on:
 
-      http://127.0.0.1:8000/admin/
+      http://0.0.0.0:8000/admin/
 
 - API Documentation:
 
-      http://127.0.0.1:8000/api/schema/swagger-ui/
+      http://0.0.0.0:8000/api/schema/swagger-ui/
 
 
 ### Folder Structure
