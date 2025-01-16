@@ -33,6 +33,10 @@
     (.venv) docker compose -f docker-compose.yml up
 
 
+### Editing Environement Variables
+
+- See docker-compose.yml to add/Update Environemnt variables defined
+
     
 
 ### Running Migrations
